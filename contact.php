@@ -58,7 +58,8 @@
   </div>
 
   <div>
-  <p class="text-center bg-dark text-white">Chandana GV - +91-9902477354, gchandana7799@gmail.com<br>Rithish Reddy - +91-9380073437, rithishreddy7007@gmail.com<br>Jasti SriHarsha - +91-9110342158, sri814823@gmail.com<br>Balaji Subhash - +91-7036739735, gbalajisubash@gmail.com<br>Bhaskar SaiRam - +91-8374827408, k.bsairam1210@gmail.com
+  <p class="text-center bg-dark text-white">Anshu kumar - +91-9471262242, anshukr4445@gmail.com<br>Aditya Randeo - +91-9380584834, AdityaRandeo7007@gmail.com<br>Dhruv Mehta- +91-91103456756, dhruv6758@gmail.com<br>Dhvaj Patel - +91-7036738499, pateldhvaj887@gmail.com
+  </p>
   </p>
   <a href="contact.php"> </a>
 </div>
