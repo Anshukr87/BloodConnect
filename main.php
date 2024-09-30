@@ -97,7 +97,7 @@
     <h2 class="text-center">Contact Us</h2>
   </div>
   <div>
-  <p class="text-center bg-dark text-white">Anshu kuamr - +91-9902477354, anshu8377@gmail.com<br>Aditya randeo - +91-93804471227, adityarandeo7007@gmail.com<br>Dhvaj patel- +91-727287638493, dhvajpatel@gmail.com<br>subash@gmail.com<br>Bhaskar</p>
+  <p class="text-center bg-dark text-white">Anshu kuamr - +91-9902477354, anshu8377@gmail.com<br>Aditya randeo - +91-93804471227, adityarandeo7007@gmail.com<br>Dhvaj patel- +91-727287638493, dhvajpatel@gmail.com<br> Dhruv Mehta - 91+9938727218 dhruv99@gmail.com </p>
   <a href="contact.html"> </a>
   </div>
 </section>
