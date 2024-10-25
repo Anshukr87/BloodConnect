@@ -18,7 +18,7 @@
 <body>
 
 <div class="footer">
-  <p>© Copyright 2024<span id="demo"></span> <span class="brand">Blood Bank. </span> All Rights Reserved.
+  <p>© <span id="demo"></span> <span class="brand">Blood Bank. </span> All Rights Reserved.
 </footer></p>
 </div>
 
